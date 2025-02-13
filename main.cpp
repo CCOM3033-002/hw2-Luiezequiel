@@ -1,6 +1,12 @@
-/*Luiezequiel Benitez Medero
-801247261
+/*
+Lab 1: Suma de dos fracciones
+Nombre: Luiezequiel Benítez Medero
+Núm. Est: 801-XX-XXXX
+Colaboraciones: 
+- tutor X,
+- página web: [link]
 */
+
 #include<iostream>
 using namespace std;
 
