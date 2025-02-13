@@ -32,7 +32,7 @@ int main(){
   int denom_result = denom1 * denom2;
 
   //Resultado
-  cout << "La suma es " << num_result << slash << denom_result << endl;
+  cout << "La suma es " << num_result << slash << denom_result << "." << endl;
 
 
   return 0;
